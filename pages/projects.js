@@ -15,10 +15,7 @@ export default function Projects() {
         <p>
           Below are a few projects I worked on over the past few years that I
           feel particulalry proud of. Feel free to reach out about any of them
-          or let me know if you have any questions! In general, I really enjoyed
-          working on projects, but I'm looking for something to commit my full
-          time to. If you wanna work with me on something full time, please get
-          in touch with me.{" "}
+          or let me know if you have any questions!{" "}
         </p>
 
         <hr />

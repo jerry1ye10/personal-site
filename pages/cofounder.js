@@ -18,18 +18,23 @@ export default function CoFounder() {
           weekends, irregular hours, etc) to what I'm working on, and that's the
           only thing I really need out of a cofounder. I'd prefer working with
           others who are technical, able to work in person (SF or NY), and are
-          interested in similar industries to me.
+          passionate about the same issues as I am.
         </p>
 
-        <p>In terms of my skillset, </p> 
+        <p className="py-2">
+          Particularly, I'm interested in these specific industries: education,
+          mental health, and social. Recently, I've also been a lot more bullish
+          on certain web3 defi projects, so feel free to reach out regardless. I
+          have a few ideas that I'm passionate about, but I'm very open to
+          hearing other ideas as well.
+        </p>
 
-        <p>
-          {" "}
-          Below you can find some ideas I'm interested in working on. I'm not
-          particularly attached to any of them and I'm very open to hearing
-          other ideas. If you're even slightly interested, feel free to take a
-          look around my site to see if you think we'd be a good fit and book
-          time on my calendly so we can chat!
+        <p className="py-2">
+          To describe my skillset: I'm a generalist who is pretty much willing
+          to sync his teeth into anything. In the past, I've thought/read a lot
+          about marketing and product design and have a heavy technical
+          background. If you're interested in working with me, please schedule
+          time on my calendly or email me.
         </p>
       </div>
 
