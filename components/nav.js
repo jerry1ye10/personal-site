@@ -4,10 +4,10 @@ import { CgDarkMode } from "react-icons/cg";
 import { useTheme } from "next-themes";
 
 const links = [
-  { label: "Home", href: "/" },
-  { label: "Projects", href: "/projects" },
-  { label: "Miscellaneous", href: "/misc" },
-  { label: "Be My Cofounder", href: "/cofounder" },
+  // { label: "Home", href: "/" },
+  // { label: "Projects", href: "/projects" },
+  // { label: "Miscellaneous", href: "/misc" },
+  // { label: "Be My Cofounder", href: "/cofounder" },
 ];
 
 export default function Nav() {
