@@ -18,7 +18,7 @@ export default function Home() {
           </p>
 
           <p className="py-2">
-          I dropped out of college after my freshman year to explore what I wanted to do in life. Most recently,  I worked on Archer, an AI call center for home service businesses backed by Bloomberg Beta & 1984 Ventures.  We were acquired by our largest partner, a human based call center named <a href="https://www.free-2-grow.com/" target="_blank" rel="noopener noreferrer" className="text-blue-500">Free2Grow</a>, where I joined as the CTO. 
+          I dropped out of college after my freshman year to explore what I wanted to do in life. Most recently,  I worked on Archer, an AI call center for home service businesses backed by Bloomberg Beta & 1984 Ventures.  We were acquired by our largest partner, a human based call center named <a href="https://www.free-2-grow.com/" target="_blank" rel="noopener noreferrer" className="text-blue-500">Free2Grow</a>, where I'm now the CTO. 
           </p>
 
        
@@ -28,7 +28,7 @@ export default function Home() {
           </p>
 
           <p className="py-2">
-          For fun, I’ve always been a huge gamer. I hit challenger (rank 85, top .01%) in Teamfight tactics recently. I also enjoy playing poker and am actively hosting games in SF. Hit me up if you'd like to play some time! 
+          For fun, I like anime + have always been a huge gamer. I hit challenger (rank 85, top .01%) in Teamfight tactics recently. I also enjoy playing poker and am actively hosting games in SF. Hit me up if you'd like to play some time! 
           </p>
           <p className="py-2">
             These days, I'm in SF actively exploring & looking to meet more people. If you think I'm cool, hit me up and let's grab food or play poker some time! 

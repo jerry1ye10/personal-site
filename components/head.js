@@ -8,9 +8,9 @@ export default function HeadObject({ children }) {
   //const darkSearchBarColor = "#000000"; // This is your Safari 15 Search Bar Color in Dark Mode (optional)
   const keywords = "put some fun keywords here";
   const author = "Jerry Ye";
-  const twitter = "@sarthaktexas";
+  const twitter = "@jerryzye1";
   const url = "http://localhost:3000"; // This is your og:url or domain (optional but recommended)
-  //const image = "/ogimage.png"; // This is your OpenGraph image
+  const image = "/ogimage.png"; // This is your OpenGraph image
   return (
     <Head>
       <meta charSet="utf-8" />
@@ -30,10 +30,14 @@ export default function HeadObject({ children }) {
       <meta property="og:type" content="website" />
       <meta property="og:title" content={title} />
       <meta property="og:description" content={description} />
-      {/* <meta property="og:image" content={image} /> */}
+      <meta property="og:image" content={image} />
       <meta name="twitter:card" content="summary" />
       <meta name="twitter:site" content={twitter} />
       <meta name="twitter:creator" content={twitter} />
+      
+      {/* Empty favicon to override default Next.js favicon */}
+      <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>♠️</text></svg>" />
+      
       {/* Add analytics here */}
       {children}
     </Head>
