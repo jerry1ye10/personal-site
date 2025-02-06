@@ -14,15 +14,24 @@ export default function Home() {
       <div className="flex px-5 sm:px-20 md:px-40 py-5">
         <div class="flex-2 text-auto px-2">
           <p className="py-2">
-            Hi! I'm Jerry, a 22 year old dropout from UPenn based in SF. My #1 priority is meeting people and making good friends. If you think I seem cool, DM me about why you think we could be close friends. I'd love to chat!
+          Hi! I'm Jerry, a 23 year old UPenn dropout based in SF. I was born & raised in NYC where I went to Stuyvesant High School. 
           </p>
 
           <p className="py-2">
-            Most recently, I worked on Archer, an AI call center for home service businesses which sadly failed because of co-founder conflict. We're being acquired by our largest partner, a human call center which was white-labeling our tech. I'm joining as their CTO and currently working there right now. Since working with them, I grew our AI product's revenue by 250K+ ARR in under a month.
+          I dropped out of college after my freshman year to explore what I wanted to do in life. Most recently,  I worked on Archer, an AI call center for home service businesses backed by Bloomberg Beta & 1984 Ventures.  We were acquired by our largest partner, a human based call center named <a href="https://www.free-2-grow.com/" target="_blank" rel="noopener noreferrer" className="text-blue-500">Free2Grow</a>, where I joined as the CTO. 
+          </p>
+
+       
+
+          <p className="py-2">
+            In the past, I also built <a href="https://www.founderschoicevc.com/" target="_blank" rel="noopener noreferrer" className="text-blue-500">Founder's Choice</a>, a vc ranking website which aggregated data from 1077 venture back founders. We were sponsored by AngelList, Crunchbase, 2.12 Angels, BBG Ventures, Bloomberg Beta, Precursor ventures, & SignalFire. 
           </p>
 
           <p className="py-2">
-            I enjoy chasing after goals in life, and right now, the goal I feel most motivated to chase after is to become financially free ($20 Million). I want to go after a hard goal and succeed with a small team where we’re all close friends. So basically I’m larping as Luffy in real life. HMU to talk about anime / meaning in life!!
+          For fun, I’ve always been a huge gamer. I hit challenger (rank 85, top .01%) in Teamfight tactics recently. I also enjoy playing poker and am actively hosting games in SF. Hit me up if you'd like to play some time! 
+          </p>
+          <p className="py-2">
+            These days, I'm in SF actively exploring & looking to meet more people. If you think I'm cool, hit me up and let's grab food or play poker some time! 
           </p>
         </div>
         <div className="flex-2 px-2">
