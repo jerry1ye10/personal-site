@@ -14,7 +14,7 @@ export default function Home() {
       <div className="flex px-5 sm:px-20 md:px-40 py-5">
         <div class="flex-2 text-auto px-2">
           <p className="py-2">
-          Hi! I'm Jerry! I'm 23, born & raised in NYC where I went to Stuyvesant High School. I went to the University of Pennsylvania & dropped out of college after my freshman year to explore what I wanted to do in life. I'm currently the CTO & Co-founder at <a href="https://www.free-2-grow.com/" target="_blank" rel="noopener noreferrer" className="text-blue-500">Free2Grow</a>, where I've scaled the business to $1M+ ARR. I own all things product, client success, and email marketing.
+          Hi! I'm Jerry! I'm 23, born & raised in NYC where I went to Stuyvesant High School. I went to the University of Pennsylvania & dropped out of college after my freshman year to explore what I wanted to do in life. I'm currently the CTO & Co-founder at <a href="https://www.free-2-grow.com/" target="_blank" rel="noopener noreferrer" className="text-blue-500">Free2Grow</a>, where I've scaled the business to $1M+ ARR. I own all things product, client success, and email marketing, and more.
           </p>
 
 
