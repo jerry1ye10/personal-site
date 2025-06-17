@@ -19,7 +19,7 @@ export default function Home() {
 
 
           <p className="py-2">
-            Some things about me I'm proud of:
+            Some things I'm proud of:
           </p>
           <ul className="py-2 list-disc list-inside space-y-1">
             <li>As a kid, I sold Yu-Gi-Oh! cards to make money. My parents wouldn't let me order online, so I had to ship everything to a friend's house and pay him a "handling fee"—still turned $20 into $10K.</li>
