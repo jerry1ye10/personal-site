@@ -24,6 +24,7 @@ export default function Home() {
           <ul className="py-2 list-disc list-inside space-y-1">
             <li>As a kid, I sold Yu-Gi-Oh! cards to make money. My parents wouldn't let me order online, so I had to ship everything to a friend's house and pay him a "handling fee"—still turned $20 into $10K.</li>
             <li>I've been top ranked at many games (1200 LP Challenger / Rank 80 NA in TFT, Top 10 DN ranking in yugioh, top 100 backyard monsters player worldwide, Diamond 2 in league of legends)</li>
+            <li>I've generated $75K+ PnL playing poker</li>
             <li>I built <a href="https://www.founderschoicevc.com/" target="_blank" rel="noopener noreferrer" className="text-blue-500">Founder's Choice</a>, a vc ranking website which aggregated data from 1077 venture back founders and was covered by journalists like <a href="https://www.newcomer.co/p/founders-choice-vc-rankings-revealed" target="_blank" rel="noopener noreferrer" className="text-blue-500">Eric Newcomer</a>. We were sponsored by AngelList, Crunchbase, 2.12 Angels, BBG Ventures, Bloomberg Beta, Precursor ventures, & SignalFire.</li>
           </ul>
           <p className="py-2">
